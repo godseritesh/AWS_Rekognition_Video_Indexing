@@ -1,0 +1,14 @@
+Deploy a Video Indexing Application using Amazon Rekognition
+
+Project Structure
+Task 1: See how Amazon Rekogniton works and what kind of insights you can have in your videos, as well as the demo of the application we will deploy in this project;
+Task 2: Understand how the Amazon Rekognition process works in the background and the AWS services related;
+Task 3: Set the proper security permissions to use Amazon Rekognition in AWS;
+Task 4: Configure some AWS Services like AWS SNS and AWS S3 needed to execute Amazon Rekognition;
+Task 5: Use the documentation for AWS SDK for JavaScript and understand how to find Amazon Rekogniton API;
+Task 6: Clone a Web application from Github, configure and deploy it for Video Indexing;
+Task 7: Index a video and detect labels using Amazon Rekognition API;
+Task 8: Index a video and detect faces using Amazon Rekognition API;
+Task 9: Index a video and detect celebrities using Amazon Rekognition API;
+Task 10:Index a video and detect Text and words using Amazon Rekognition API;
+Task 11:Clean Up the environment
